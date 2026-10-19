@@ -81,11 +81,11 @@
 
 | 工具 | 下载 |
 | --- | --- |
-| 工具一：债券询价明细表处理 | [债券询价处理工具v6.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/债券询价处理工具v6.zip) |
-| 工具二：双表合并 | [债券询价双表合并工具.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/债券询价双表合并工具.zip) |
+| 工具一：债券询价明细表处理 | [bood-tool-v6.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/bood-tool-v6.zip) |
+| 工具二：双表合并 | [bond-merge-tool.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/bond-merge-tool.zip) |
 
 每个 zip 内含：exe + 交接说明文档 + 全部源码 + 一键打包脚本。
-（若浏览器把中文文件名转义导致下载失败，直接到 [Releases](https://github.com/agnes-cjy/bond-inquiry-tools/releases) 页面点附件下载。）
+（若下载异常，直接到 [Releases](https://github.com/agnes-cjy/bond-inquiry-tools/releases) 页面点附件下载。）
 
 ## 六、仓库结构
 
