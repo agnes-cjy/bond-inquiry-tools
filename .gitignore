@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 本地产物
+输出询价明细表*.xlsx
+*.log
+.DS_Store
+
+# 业务数据（绝不入库）
+*.xls
+*.xlsx
+!requirements.txt
