@@ -81,7 +81,7 @@
 
 | 工具 | 下载 |
 | --- | --- |
-| 工具一：债券询价明细表处理 | [bood-tool-v6.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/bood-tool-v6.zip) |
+| 工具一：债券询价明细表处理 | [bond-tool-v6.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/bond-tool-v6.zip) |
 | 工具二：双表合并 | [bond-merge-tool.zip](https://github.com/agnes-cjy/bond-inquiry-tools/releases/latest/download/bond-merge-tool.zip) |
 
 每个 zip 内含：exe + 交接说明文档 + 全部源码 + 一键打包脚本。
